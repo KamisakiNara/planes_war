@@ -33,6 +33,16 @@ body {
     width: 6%;
 }
 
+#kel {
+    pointer-events: none;
+    position: relative;
+    z-index: 99;
+    padding: 18% 0;
+    margin-left: 70%;
+    width: 20%;
+    text-align: center;
+}
+
 #container,
 #container>div {
     width: 100%;
